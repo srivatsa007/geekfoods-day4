@@ -1,4 +1,13 @@
 # Getting Started with Create React App
+___
+[Hosted Link!!](https://main--benevolent-granita-6b14f4.netlify.app/)
+
+## screengrabs
+
+![image](https://github.com/srivatsa007/geekfoods-day4/assets/70172502/e491aeaf-c571-4de7-adb6-1751da0a9b4d)
+
+
+___
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
